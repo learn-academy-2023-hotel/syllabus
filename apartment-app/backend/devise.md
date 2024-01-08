@@ -291,7 +291,7 @@ Now we can add our new secret at the bottom of this file by assigning it to a ke
 jwt_secret_key: <newly-created secret key>
 ```
 
-Use `control + c` to encrypt and save the file.
+*** IMPORTANT! Be sure to save the file (CMD + S) and close the file in VSCode using the 'X' at the top right of the file. You must save and close this way to encrypt and save your changes to the file. ***
 
 ### Configure Devise and JWT
 
